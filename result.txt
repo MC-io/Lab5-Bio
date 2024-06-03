@@ -1,0 +1,26 @@
+Matriz de Scores:
+	S1	S2	S3	S4	S5	
+S1	-	7	-2	0	-3	->	2
+S2	7	-	-2	0	-4	->	1
+S3	-2	-2	-	0	-7	->	-11
+S4	0	0	0	-	-3	->	-3
+S5	-3	-4	-7	-3	-	->	-17
+Alineamientos de cada secuencia con la estrella:
+S1: ATTGCCATT
+S2: ATGGCCATT
+
+S1: ATTGCCA__TT
+S3: A_TCCAATTTT
+
+S1: ATTGCCATT
+S4: ATCTTC_TT
+
+S1: ATTGCCATT
+S5: ACTG__ACC
+
+Alineamiento multiple:
+S1: ATTGCCA__TT
+S2: ATGGCCA__TT
+S3: A_TCCAATTTT
+S4: ATCTTC___TT
+S5: ACTG__A__CC
